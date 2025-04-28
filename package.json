@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/navneetbhawsar10/chat-app-backend/issues"
   },
-  "homepage": "https://github.com/navneetbhawsar10/chat-app-backend#readme"
+  "homepage": "https://github.com/navneetbhawsar10/chat-app-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.0"
+  },
+  "devDependencies": {}
 }
